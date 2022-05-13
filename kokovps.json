@@ -6,7 +6,8 @@
 
 {
          "name": "DTAC-NOPRO-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/crazyvpn/main/AWS-DTAC-TRUE-01.ovpn"
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovps/main/DTAC-NOPRO-VIP.ovpn
+"
       },
 
 
@@ -14,7 +15,7 @@
 
 {
          "name": "TRUE-NOPRO-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/crazyvpn/main/AWS-DTAC-TRUE-05.ovpn"
+         "url": "https://raw.githubusercontent.com/mr1410koko/kokovps/main/TRUE-NOPRO-VIP.ovpn"
       }
 
 
